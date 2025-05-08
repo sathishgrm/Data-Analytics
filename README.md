@@ -13,7 +13,7 @@ This repository contains my data analytics projects using tools like Excel, SQL,
 ### 2. Jenson USA SQL Project
 - Tool: SQL
 - Summary: Analyzed customer behavior and product performance using SQL queries.
-- [View SQL Scripts](./JensonUSA_Analysis.sql)
+- [View SQL Scripts]https://github.com/sathishgrm/Data-Analytics/blob/main/Jenson%20Cycles%20SQL.pdf
 
 ### 3. ITC Hotels Power BI Dashboard
 - Tool: Power BI
