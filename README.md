@@ -8,7 +8,7 @@ This repository contains my data analytics projects using tools like Excel, SQL,
 ### 1. McDonald's Sales Analysis
 - Tool: Excel
 - Summary: Visualized and analyzed weekly sales data.
-- [View Excel File](./McDonalds_Sales.xlsx)
+- [View Excel File]https://github.com/sathishgrm/Data-Analytics/blob/main/Mc%20Donalds%20Sales%20Analysis.pdf
 
 ### 2. Jenson USA SQL Project
 - Tool: SQL
