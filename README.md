@@ -18,4 +18,4 @@ This repository contains my data analytics projects using tools like Excel, SQL,
 ### 3. ITC Hotels Power BI Dashboard
 - Tool: Power BI
 - Summary: Created dashboards for hotel revenue and bookings.
-- [Dashboard Screenshot](./ITC_Hotels_Dashboard.png)
+- [Dashboard Screenshot](https://github.com/sathishgrm/Data-Analytics/blob/main/ITC%201.pbix
