@@ -15,12 +15,12 @@ This repository contains my data analytics projects using tools like Excel, SQL,
 - Summary: Analyzed customer behavior and product performance using SQL queries.
 - [View SQL Scripts]https://github.com/sathishgrm/Data-Analytics/blob/main/Jenson%20Cycles%20SQL.pdf
 
-### 3. ITC Hotels Power BI Dashboard
+### 3. ITC Hotels Power BI Dashboards
 - Tool: Power BI
 - Summary: Created dashboards for hotel revenue and bookings.
 - [Presentation][https://github.com/sathishgrm/Data-Analytics/blob/main/ITC%201.pbix](https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/ITC%20Hotel%20Performance%20Analysis.pdf)
-   - [Dashboard Screenshot]https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Bookings%20Dashboard%201.png
-   - [Dashboard Screenshot]https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Bookings%20Dashboard%202.png  
-   - [Dashboard Screenshot]https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Cancellation%20Dashboard.png
-   - [Dashboard Screenshot]https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Financial%20Dashboard.png
-   - [Dashboard Screenshot] https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Occupancy%20Dashboard.png    
+   - [Bookings Dashboard 1]https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Bookings%20Dashboard%201.png
+   - [Bookings Dashboard 2]https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Bookings%20Dashboard%202.png  
+   - [Cancellation Dashboard]https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Cancellation%20Dashboard.png
+   - [Financial Dashboard]https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Financial%20Dashboard.png
+   - [Occupancy Dashboard] https://github.com/sathishgrm/Data-Analytics/blob/main/Power%20BI%20Projects/ITC%20Hotel%20Performance%20Analysis/Occupancy%20Dashboard.png    
