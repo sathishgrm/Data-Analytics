@@ -15,6 +15,11 @@ This repository contains my data analytics projects using tools like Excel, SQL,
 - Summary: Analyzed customer behavior and product performance using SQL queries.
 - [View SQL Scripts]https://github.com/sathishgrm/Data-Analytics/blob/main/SQL%20Projects/Jenson%20Cycles%20SQL.pdf
 
+### 3. Blinkit Data Analysis SQL
+- Tool: SQL
+- Summary: Analysed important insights
+- [View SQL Scripts]https://github.com/sathishgrm/Data-Analytics/blob/main/SQL%20Projects/Blinkit%20Data%20Analysis%20SQL.pdf
+
 ### 3. ITC Hotels Power BI Dashboards
 - Tool: Power BI
 - Summary: Created dashboards for hotel revenue and bookings.
